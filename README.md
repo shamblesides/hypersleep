@@ -22,4 +22,8 @@ user    0m0.002s
 sys     0m0.000s
 ```
 
-Much better :)
+Only 0.002 seconds! Three orders of magnitude faster! :rocket:
+
+## How does it work???
+
+Check out [the source code](hypersleep.rs), I think you'll really like it :)
